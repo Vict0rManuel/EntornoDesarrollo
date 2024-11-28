@@ -1,0 +1,5 @@
+if (samuel aprueba){
+invita cervecita}
+else { 
+invita diego
+}
